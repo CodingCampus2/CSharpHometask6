@@ -1,9 +1,13 @@
-# Task 5
+# Task 6
 
 ## Prerequisites:
 Read .NET Book Zero until Chapter 19.
 
 ## Description:
+
+PPM photoshop
+ppm photopea
+image 
 Deadly Virus 2
 Virus story from task1 continues...
 Your task is to create a SuperVirus class that derives from [Task5.Virus] following next rules. New virus should be:
