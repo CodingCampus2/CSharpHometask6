@@ -7,12 +7,14 @@ namespace HomeworkTemplate
     {
         static void Main(string[] args)
         {
-            Func<Task5, Task5.Virus> TaskSolver = task =>
+            Func<Task6, string> TaskSolver = task =>
             {
-                Task5.Virus virus = new SuperVirus();
-                return virus;
+                string pathToParkImage = Task6.PathToParkImage;
+                string pathToLogs = "";
+
+                return pathToLogs;
             };
-            Task5.CheckSolver(TaskSolver);
+            Task6.CheckSolver(TaskSolver);
         }
     }
 }
