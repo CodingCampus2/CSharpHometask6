@@ -1,9 +1,16 @@
 # Task 6
 
 ## Prerequisites:
-Read .NET Book Zero until Chapter 19.
+Read .NET Book Zero until Chapter 25.
 
 ## Description:
+Virus journey. Part3. 
+Three new types of Viruses emerged: 
+1) VirusAgeist - infects only old people
+2) VirusSexist - infects only girls
+3) VirusRacist - infects only black guys
+
+There is a randomly generated park where some people go for a walk. Example:
 
 PPM photoshop
 ppm photopea
