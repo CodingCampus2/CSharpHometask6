@@ -4,13 +4,25 @@
 Read .NET Book Zero until Chapter 25.
 
 ## Description:
-Virus journey. Part3. 
+### Virus journey. Part3. 
 Three new types of Viruses emerged: 
 1) VirusAgeist - infects only old people
 2) VirusSexist - infects only girls
 3) VirusRacist - infects only black guys
 
-There is a randomly generated park where some people go for a walk. Example:
+There is also a randomly generated park where some people go for a walk. Example:  
+![park](https://user-images.githubusercontent.com/5815990/78918993-ef347980-7a99-11ea-947d-2edb8b4eacdc.png)
+We can see 5 types of squares (pixels) in the park. Each has some RGB color:
+   Type (color) - Red, Green, Blue
+1) grass (green) - 0, 255, 0
+2) black guy (black) - 0, 0, 0
+3) woman (pink) - 224, 33, 138
+4) old man (grey) - 178, 190, 181
+5) ordinary natural white guy of middle age (beige) - 200, 173, 127
+
+
+
+
 
 PPM photoshop
 ppm photopea
